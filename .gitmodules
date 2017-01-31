@@ -1,0 +1,6 @@
+[submodule "assets/fonts/Meslo-Font"]
+	path = assets/fonts/Meslo-Font
+	url = https://github.com/andreberg/Meslo-Font.git
+[submodule "oh-my-zsh/plugins/zsh-git-prompt"]
+	path = oh-my-zsh/plugins/zsh-git-prompt
+	url = https://github.com/olivierverdier/zsh-git-prompt.git
