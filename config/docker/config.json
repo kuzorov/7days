@@ -1,0 +1,3 @@
+{
+	"psFormat": "table {{.ID}}\t{{.Names}}\t{{.Ports}}\t{{.Status}}\t{{.RunningFor}}"
+}
