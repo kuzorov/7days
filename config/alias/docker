@@ -1,0 +1,2 @@
+alias dc='d-c -f docker/development.yml'
+alias dcr='d-c -f docker/helpers.yml run --rm'
