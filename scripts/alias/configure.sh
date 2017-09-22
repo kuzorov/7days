@@ -2,6 +2,6 @@
 
 touch ~/.bash_profile
 
-cat config/alias/docker > ~/.bash_profile
+cat scripts/alias/config/docker > ~/.bash_profile
 
 source ~/.bash_profile

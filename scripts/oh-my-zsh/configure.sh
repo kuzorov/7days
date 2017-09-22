@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
-cp -f -r oh-my-zsh/plugins/. ~/.oh-my-zsh/plugins/
-cp -f -r oh-my-zsh/themes/. ~/.oh-my-zsh/themes/
+cp -f -r scripts/oh-my-zsh/assets/plugins/. ~/.oh-my-zsh/plugins/
+cp -f -r scripts/oh-my-zsh/assets/themes/. ~/.oh-my-zsh/themes/
 
-cp -f oh-my-zsh/.zshrc ~/.zshrc
+cp -f scripts/oh-my-zsh/.zshrc ~/.zshrc
 
 env zsh

@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-cp config/docker/config.json ~/.docker/config.json
+cp scripts/docker/config/config.json ~/.docker/config.json
